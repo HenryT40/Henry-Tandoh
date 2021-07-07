@@ -7,14 +7,15 @@ import vuetify from "./plugins/vuetify";
 import firebase from "firebase";
 
 var firebaseConfig = {
-  apiKey: "AIzaSyC6r0PvstT8bceyBsGT7JAbc9sAsDlxoWM",
-  authDomain: "webapp4040-32bad.firebaseapp.com",
-  projectId: "webapp4040-32bad",
-  storageBucket: "webapp4040-32bad.appspot.com",
-  messagingSenderId: "79552318472",
-  appId: "1:79552318472:web:b59ec63ef6ca93656dd5bd",
-  measurementId: "G-QZ9MXNH8GM"
+  apiKey: "AIzaSyD5WG6wfSxHFVbEf0twHBUl66Ry31TwXcw",
+  authDomain: "test-33181.firebaseapp.com",
+  projectId: "test-33181",
+  storageBucket: "test-33181.appspot.com",
+  messagingSenderId: "500703637841",
+  appId: "1:500703637841:web:4b4d3dbfb4c21a93016370",
+  measurementId: "G-YD6C1RP524"
 };
+
 
 firebase.initializeApp(firebaseConfig);
 
